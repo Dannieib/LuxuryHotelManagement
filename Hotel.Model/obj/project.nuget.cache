@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YZ1DxZ0eFLRAzSX+3pBVw0oW53GYK/+Y+xrCl6pLjJc5OioVsMbobp5FECIiGbmdi93C4g+oppgbWmQMP04Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Ibanga\\source\\repos\\LuxuryHotel\\Hotel.Model\\Hotel.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Ibanga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.Infrastructure.dll
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.Model.dll
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.csprojAssemblyReference.cache
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.AssemblyInfoInputs.cache
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.AssemblyInfo.cs
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.AppService.deps.json
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.AppService.dll
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.AppService.pdb
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.Infrastructure.pdb
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\bin\Debug\netcoreapp3.1\Hotel.Model.pdb
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.csproj.CopyComplete
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.dll
+C:\Users\Daniel Ibanga\source\repos\LuxuryHotel\Hotel.AppService\obj\Debug\netcoreapp3.1\Hotel.AppService.pdb
